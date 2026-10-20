@@ -1,0 +1,6 @@
+{
+  "name": "VYRO | Premium Pod & Vape Accessories",
+  "description": "Discover VYRO — A luxury minimalist pod systems and precision-engineered vape accessories platform. Designed for your own way.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
